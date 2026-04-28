@@ -10,9 +10,7 @@
 body { 
 
     background-color: #D8D6B3;
-    p {
-        padding: 10px;
-    }
+    
 
 }
 
@@ -207,7 +205,7 @@ top: 5%;
 left: 5%;
 width: 90%;
 height: 90%;
- }
+}
 
  /* Classes */
  
