@@ -188,8 +188,26 @@ footer {
  }
 
  .video {
-    width: 100%;
-    
+
  }
+
+ div.video {
+    
+    background-color: #0A3B2C;
+    margin: 0px 0px 30px 0px;
+    
+    position: relative;
+    padding-bottom: 50%;
+
+ }
+
+ div.video > iframe {
+position: absolute;
+top: 5%;
+left: 5%;
+width: 90%;
+height: 90%;
+ }
+
  /* Classes */
  
