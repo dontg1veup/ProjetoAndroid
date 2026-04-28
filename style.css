@@ -71,15 +71,12 @@ nav a:hover {
 
 main {
 
-   
    max-width: 800px;
-   min-width: 400px;
    background-color: white;
    margin: auto;
     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
    padding: 10px;
    text-align: justify;
-   
 
 }
 
